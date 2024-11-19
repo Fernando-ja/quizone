@@ -1,0 +1,117 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e3f2fd;
+    text-align: center;
+}
+
+#container {
+    max-width: 600px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #0073e6;
+}
+
+label {
+    font-size: 18px;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px 0;
+    width: 100%;
+}
+
+button {
+    background-color: 	#008000;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #008000;
+}
+
+#quizScreen {
+    margin-top: 20px;
+}
+
+#imageContainer img {
+    width: 100%;
+    max-height: 280px;
+    object-fit: cover;
+    margin-bottom: 30px;
+}
+
+#questionText {
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+#options {
+    display: flex;
+    flex-direction: column;
+}
+
+#options button {
+    margin: 5px 0;
+    background-color: #f0f8ff;
+    color: #0073e6;
+    border: 2px solid 	#008000;
+}
+
+#options button:hover {
+    background-color: #0073e6;
+    color: white;
+}
+
+#timer {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+#resultScreen h2 {
+    color: #008000;
+}
+
+#scoreboard {
+    margin-top: 20px;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#stadiumScore {
+    text-align: center;
+    font-size: 22px;
+    color: #008000;
+}
+
+#playerNameDisplay {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+#currentScore {
+    font-size: 18px;
+    font-weight: bold;
+    color: #008000;
+}
