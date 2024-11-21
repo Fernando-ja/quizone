@@ -57,7 +57,7 @@ const questions = [
         question: "O que é um drive USB?",
         options: ["Um dispositivo de rede", "Um dispositivo de armazenamento portátil conectado via USB", "Um tipo de smartphone", "Um software de segurança"],           
         answer: "Um dispositivo de armazenamento portátil conectado via USB",
-        image: "img/brasilia.jpg"
+        image: "img/drive.jpg"
     },
 {
         question: "O que é streaming?",
