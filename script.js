@@ -111,45 +111,45 @@ const questions = [
         question: "O que é e-commerce?",
         options: ["Venda de produtos em lojas físicas", "Um tipo de aplicativo", "Um sistema de segurança", "Compra e venda de produtos ou serviços pela internet"],           
         answer: "Compra e venda de produtos ou serviços pela internet",
-        image: "img/brasilia.jpg"
+        image: "img/e-com.jpg"
     },
 {
         question: "O que é um firewall?",
         options: ["Um software de edição", "Um dispositivo de armazenamento", "Uma tecnologia de comunicação", "Sistema de segurança que controla o tráfego de rede"],           
         answer: "Sistema de segurança que controla o tráfego de rede",
-        image: "img/brasilia.jpg"
+        image: "img/fire.jpg"
     },
 
 {
         question: "O que é um sistema operacional?",
         options: ["Um tipo de hardware que controla os componentes de um computador.", "Um conjunto de programas que permitem a comunicação entre o usuário e o hardware do computador.", "Um software que serve apenas para criar documentos de texto.", "Sistema de segurança que controla o tráfego de rede"],           
         answer: "Um conjunto de programas que permitem a comunicação entre o usuário e o hardware do computador.",
-        image: "img/brasilia.jpg"
+        image: "img/system.jpg"
     },
 
 {
         question: "Qual das alternativas abaixo é um exemplo de software de segurança?",
         options: ["Windows 10", " Microsoft Word", "Norton Antivirus", "Google Chrome"],           
         answer: "Norton Antivirus",
-        image: "img/brasilia.jpg"
+        image: "img/soft.jpg"
     },
 {
         question: "Qual é a principal vantagem de utilizar a computação em nuvem?",
         options: ["Armazenamento de dados apenas no computador local.", "Acesso aos dados e aplicativos de qualquer lugar e a qualquer hora, usando a internet.", "Exigir a instalação de softwares pesados nos dispositivos locais.", "Conexão apenas entre computadores que estão fisicamente próximos."],           
         answer: "Acesso aos dados e aplicativos de qualquer lugar e a qualquer hora, usando a internet.",
-        image: "img/brasilia.jpg"
+        image: "img/compn.jpg"
     },
 {
         question: "O que é um vírus de computador?",
         options: ["Um software que melhora o desempenho de um computador.", " Um programa que se propaga automaticamente e pode prejudicar o sistema.", "Um tipo de hardware utilizado para proteger dados.", "Um aplicativo de edição de fotos."],           
         answer: "Um programa que se propaga automaticamente e pode prejudicar o sistema.",
-        image: "img/brasilia.jpg"
+        image: "img/virus.jpg"
     },
 {
         question: "Qual é a diferença principal entre uma rede LAN e uma rede WAN?",
         options: ["A LAN conecta dispositivos em uma área local, enquanto a WAN conecta dispositivos em uma área geograficamente ampla.", " A LAN usa a internet para se conectar, enquanto a WAN usa apenas cabos de fibra ótica.", "A LAN é usada apenas em empresas, e a WAN apenas em residências.", " A LAN é mais lenta do que a WAN em termos de transmissão de dados."],           
         answer: "A LAN conecta dispositivos em uma área local, enquanto a WAN conecta dispositivos em uma área geograficamente ampla.",
-        image: "img/brasilia.jpg"
+        image: "img/wanlan.jpg"
     },
 
 
