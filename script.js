@@ -69,7 +69,7 @@ const questions = [
         question: "O que é a realidade aumentada (AR)?",
         options: ["Uma forma de videoconferência", "Tecnologia que sobrepõe informações digitais ao mundo real", "Um tipo de aplicativo", "Um software de edição"],           
         answer: "Tecnologia que sobrepõe informações digitais ao mundo real",
-        image: "img/brasilia.jpg"
+        image: "img/ar.jpg"
     },
 {
         question: "Qual é a função de um assistente virtual como a Siri?",
