@@ -63,7 +63,7 @@ const questions = [
         question: "O que é streaming?",
         options: ["Download de arquivos", "Transmissão de áudio ou vídeo pela internet em tempo real", "Gravação de músicas", "Armazenamento de dados"],           
         answer: "Transmissão de áudio ou vídeo pela internet em tempo real",
-        image: "img/brasilia.jpg"
+        image: "img/stream.jpg"
     },
 {
         question: "O que é a realidade aumentada (AR)?",
