@@ -75,37 +75,37 @@ const questions = [
         question: "Qual é a função de um assistente virtual como a Siri?",
         options: ["Realizar tarefas por comandos de voz", "Editar vídeos", "Criar gráficos", "Proteger dispositivos contra vírus"],           
         answer: "Realizar tarefas por comandos de voz",
-        image: "img/brasilia.jpg"
+        image: "img/siri.jpg"
     },
 {
         question: "O que é um código QR?",
         options: ["Um tipo de cartão de memória", "Código de barras bidimensional que pode ser escaneado para acessar informações", "Um software de edição", "Um tipo de aplicativo"],           
         answer: "Código de barras bidimensional que pode ser escaneado para acessar informações",
-        image: "img/brasilia.jpg"
+        image: "img/qr.jpg"
     },
 {
         question: "O que é Bluetooth?",
         options: ["Uma tecnologia de transmissão de rádio", "Tecnologia sem fio para troca de dados entre dispositivos próximos", "Um tipo de sistema operacional", "Um software de segurança"],           
         answer: "Tecnologia sem fio para troca de dados entre dispositivos próximos",
-        image: "img/brasilia.jpg"
+        image: "img/blue.jpg"
     },
 {
         question: "O que são redes sociais?",
         options: ["Plataformas para edição de fotos", "Dispositivos de armazenamento", "Plataformas online para interação e compartilhamento de conteúdo", "Sistemas de segurança"],           
         answer: "Plataformas online para interação e compartilhamento de conteúdo",
-        image: "img/brasilia.jpg"
+        image: "img/social.jpg"
     },
 {
         question: "O que é um algoritmo?",
         options: ["Um tipo de software", "Um dispositivo de hardware", "Conjunto de instruções para resolver problemas ou realizar tarefas", "Uma tecnologia de comunicação"],           
         answer: "Conjunto de instruções para resolver problemas ou realizar tarefas",
-        image: "img/brasilia.jpg"
+        image: "img/algo.jpg"
     },
 {
         question: "O que significa open source?",
         options: ["Um tipo de antivírus", "Um dispositivo de armazenamento", "Software com código-fonte disponível publicamente para uso e modificação", "Um sistema operacional"],           
         answer: "Software com código-fonte disponível publicamente para uso e modificação",
-        image: "img/brasilia.jpg"
+        image: "img/open.jpg"
     },
 {
         question: "O que é e-commerce?",
